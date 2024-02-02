@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706856870
+default_env.tres::Environment::-1::1706856741::0::1::::<><>::
+icon.png::CompressedTexture2D::6917306840394125494::1706856741::1706856767::1::::<><>::
+::res://addons/::1706856787
+::res://addons/csg_to_mesh_instance/::1706856787
+menu_button.tscn::PackedScene::7994402270695267760::1706856472::0::1::::<><>::res://addons/csg_to_mesh_instance/plugin_button.gd
+plugin.cfg::TextFile::-1::1706856515::0::1::::<><>::
+plugin.gd::GDScript::-1::1706856844::0::1::::<>EditorPlugin<>::
+plugin_button.gd::GDScript::-1::1706855497::0::1::::<>MenuButton<>::
